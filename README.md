@@ -12,3 +12,5 @@ und wieder gespeichert werden.
 - **Seit**    : 2014-03-27
 - **Release** : alpha
 - **License** : LGPL v3
+
+Die API ist komplett Objektorientiert umgesetzt.
